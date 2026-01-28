@@ -16,7 +16,7 @@ This repository contains code and data used in the analysis of segregation metri
 - `Schelling_paper_results.ipynb`  
   Analysis notebook reproducing simulation results used in the paper, including results for cities at different compositions and neighborhood subset analyses.  
   Note: This notebook requires downloading simulation snapshot data from Google Drive:  
-  [https://drive.google.com/drive/folders/1lQVadXv8ohc5x0LQHIKx0Z-IaAR3janM?usp=sharing](https://drive.google.com/drive/folders/1lQVadXv8ohc5x0LQHIKx0Z-IaAR3janM )
+  [https://drive.google.com/drive/folders/1lQVadXv8ohc5x0LQHIKx0Z-IaAR3janM?usp=sharing](https://drive.google.com/drive/folders/1lQVadXv8ohc5x0LQHIKx0Z-IaAR3janM )  
   After downloading, place the `Simulation Results/` folder in the same directory as `Schelling_paper_results.ipynb`.
 
 - `Census_data_results.ipynb`  
