@@ -34,5 +34,5 @@ Raw block-group Census tabulations were obtained from IPUMS NHGIS and are not re
 
 ## Requirements
 
-The code uses standard scientific Python packages (NumPy, pandas, matplotlib).  
+The code uses standard scientific Python packages (NumPy, pandas, matplotlib, SciPy).  
 Notebooks were developed in Python 3.10+.
