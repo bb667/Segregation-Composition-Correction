@@ -31,7 +31,6 @@ This repository contains code and data used in the analysis of segregation metri
 ## Data Availability
 
 Raw block-group Census tabulations were obtained from IPUMS NHGIS and are not redistributed due to licensing terms. File names and extraction parameters are documented in `Census Data/README.md`.  
-Large simulation outputs are hosted externally due to size; see `Simulation Results/README.md` for download links.
 
 ## Requirements
 
